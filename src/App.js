@@ -18,6 +18,7 @@ function App() {
         !
       </h2>
       <p>
+        <img src="http://placeimg.com/640/480/tech"  alt="hero"/>
         <a
           href="https://github.com/vercel/vercel/tree/master/examples/create-react-app"
           target="_blank"
